@@ -1,0 +1,12 @@
+.chosen {
+  background-color: red;
+}
+
+.persondisplay{
+  width: 400px;
+  height:200px;
+}
+
+.hidden {
+ opacity: 0;
+}
