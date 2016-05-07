@@ -26,7 +26,7 @@ var timerID = setInterval(moveData, 10000);
         $('#' + currentIndex).addClass('chosen');
         appendPerson();
         clearInterval(timerID);
-        timerId = setInterval(moveData, 5000);
+        timerId = setInterval(moveData, 10000);
       });
 
       function moveData(direction = 1){
