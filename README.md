@@ -1,7 +1,4 @@
-# Running the Server
+# Weekend Challenge #2
+## Author: Anthony Peloza
 
-This Challenge will require you to setup and run the application in this repository.
-
-[Refer to the jQuery AJAX lecture notes for installing and running the server]  (https://github.com/kdszafranski/prime-ajax-intro)
-
-These instructions will be the same for all of our node applications.
+This program calls in data using AJAX to display on the DOM. Users can click on specific indexes to see the data, or click next/previous to cycle through the data. If the user takes no action, the data is automatically cycled forwards.
